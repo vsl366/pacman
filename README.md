@@ -1,5 +1,9 @@
 *********************************************************************************************************************************************************************************************************
 
+IF YOU WANT TO PLAY THE GAME, PLEASE JUST DOWNLOAD THE PAC-INSTALL FILE AND YOURE GOOD TO GO (ie no need to install raylib or the resources or any other stuff). INCASE IT DOESNT WORK AS INTENDED OR IF YOU WANT TO PPLAY AROUND WITH THE CODE, PLEASE FOLLOW THE INSTRUCTIONS BELOW :)
+
+*********************************************************************************************************************************************************************************************************
+
 This File is split into two parts , with the first part solely being dedicated for the installation purposes of raylib. Please feel free to skip this part if you already have installed raylib.
 
 *********************************************************************************************************************************************************************************************************
@@ -58,8 +62,7 @@ Steps to run the code once you save it
 
 
 NOTE:
-1)As we have done this project in a windows system, all the file paths of the images contain their paths with reference to c drive. Hence, this code would run in any OS , BUT all the images and audios necessary wont be displayed.
-2)Some systems might throw a warning that the zip file is not safe. We assure you that the file is free of any viruses and is completely safe to open. When such sorts of pop ups appear, just click more info and press "Run anyway" when extracting the zip file
+1)Some systems might throw a warning that the zip file is not safe. We assure you that the file is free of any viruses and is completely safe to open. When such sorts of pop ups appear, just click more info and press "Run anyway" when extracting the zip file
 
 HAPPY PLAYING !!!
 
